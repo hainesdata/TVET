@@ -1,5 +1,0 @@
-pandas
-us
-plotly.express
-folium
-branca
