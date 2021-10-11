@@ -2,5 +2,4 @@ pandas
 us
 plotly.express
 folium
-braca
 folium.plugins
