@@ -1,1 +1,1 @@
-web: voila —-port=$PORT --no-browser
+web: voila --no-browser
